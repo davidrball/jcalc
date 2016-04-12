@@ -5,6 +5,6 @@ code units to physical units.  Also includes a function for covariantly calculat
 given a magnetic field profile.
 
 things to include:
-displacement current (system is fairly relativistic so this term likely matters)
-put the del(E) term in the proper units
+displacement current (system is fairly relativistic so this term likely matters),
+put the del(E) term in the proper units,
 output coordinate invariant, j_nu j^nu rather than the individual components.
