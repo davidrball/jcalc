@@ -1,6 +1,6 @@
 # jcalc
 
-Code to read in data from runs from the HARM simulation, perform coordinate transformations and appropriate conversions from 
+Code to read in data from runs of the HARM simulation, perform coordinate transformations and appropriate conversions from 
 code units to physical units.  Also includes a function for covariantly calculating the current density in the Kerr metric
 given a magnetic field profile.
 
